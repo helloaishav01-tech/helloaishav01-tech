@@ -82,7 +82,7 @@ An AI-powered Security Operations Center that **detects threats** and **auto-gen
 
 ### 🛍️ Elara — Full-Stack E-Commerce Platform
 
-[![Elara Repo]https://github-readme-stats-salesp07.vercel.app/api?username=helloaishav01-tech&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&repo=elara-site&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/elara-site)
+[![Elara Repo](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=helloaishav01-tech&repo=elara-site&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/elara-site)
 
 Built the **entire frontend + backend solo** — product listings, cart, user auth, order management. Deploying soon.
 
