@@ -162,7 +162,7 @@ I'm open to building something with you — AI tools, web apps, automation, or a
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloaisha.v01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aisha-yasir-8638392b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aisha-yasir-8638392b5/)
 
 **Available for:** Remote Full-Time · Freelance · Contracts · AI/ML Internships
 
