@@ -72,7 +72,7 @@ No corporate background — just real projects, real problems, real code.
 
 ### ⚡ AESA — Autonomous Cyber Command Center
 
-[![AESA Repo](https://github-readme-stats.vercel.app/api/pin/?username=helloaishav01-tech&repo=AESA-Cyber-Command&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/AESA-Cyber-Command)
+[![AESA Repo](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=helloaishav01-tech&repo=AESA-Cyber-Command&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/AESA-Cyber-Command)
 
 An AI-powered Security Operations Center that **detects threats** and **auto-generates remediation playbooks** — no human in the loop.
 
@@ -82,7 +82,7 @@ An AI-powered Security Operations Center that **detects threats** and **auto-gen
 
 ### 🛍️ Elara — Full-Stack E-Commerce Platform
 
-[![Elara Repo](https://github-readme-stats.vercel.app/api/pin/?username=helloaishav01-tech&repo=elara-site&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/elara-site)
+[![Elara Repo]https://github-readme-stats-salesp07.vercel.app/api?username=helloaishav01-tech&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&repo=elara-site&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)](https://github.com/helloaishav01-tech/elara-site)
 
 Built the **entire frontend + backend solo** — product listings, cart, user auth, order management. Deploying soon.
 
@@ -98,7 +98,7 @@ Built the **entire frontend + backend solo** — product listings, cart, user au
 
 <img src="https://github-readme-stats.vercel.app/api?username=helloaishav01-tech&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&hide_border=false&count_private=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloaishav01-tech&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=false" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=helloaishav01-tech&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&hide_border=false" height="165"/>
 
 <br/><br/>
 
